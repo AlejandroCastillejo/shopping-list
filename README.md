@@ -2,7 +2,7 @@
 
 ## Installation
 
-To intall the app, first unzip the package and open a terminal on the root folder (which contains the 'package.json' file).  
+To intall the app, first unzip or clone the package and open a terminal on the root folder (which contains the 'package.json' file).  
 Then run: `yarn` or `npm install`.
 
 ## Run the app
