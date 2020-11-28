@@ -1,4 +1,4 @@
-# a3sec technical test
+# shopping list app
 
 ## Installation
 

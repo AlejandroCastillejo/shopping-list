@@ -19,7 +19,7 @@ function Header() {
 
   return (
     <div className={`header ${scrolledDown && "scrolled"}`}>
-      <div className="header-note">a3sec technical test</div>
+      <div className="header-note">test app</div>
       <div className="tittle">Shopping List</div>
     </div>
   );
